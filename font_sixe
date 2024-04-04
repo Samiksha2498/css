@@ -1,0 +1,24 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> 
+
+
+
+</head>
+<body>
+    <h1 style="font: size 200px;">pratik</h1>
+    
+        <h1>HEADING 01</h1>
+    
+        
+            <p style="font: size 200px;  line-height: 100 px ;">ipsum, dolor sit amet consectetur adipisicing elit. Magnam quam sit aperiam ad omnis dignissimos ipsum, molestias doloremque nisi nemo eaque. Omnis repellendus cumque similique sit, nemo illum eum voluptas.</p>
+            <li><h2>heading 03</h2></li>
+            <p style="font-size: 100px;line-height: 100px; text-transform:capitalize;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate autem reiciendis rerum, labore maiores ipsum quidem animi recusandae at atque quia molestiae ex odio! Impedit nesciunt itaque at magnam soluta!</p>
+
+</body>
+</html>
